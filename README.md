@@ -1,8 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Siddhesh Alhat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="Coding" width="400" src="https://sounter.com/_next/image?url=%2Fimages%2Fprogrammer.gif&w=828&q=75">
-
+<img align="right" alt ="Coding" width="400" src="https://sounter.com/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesalhat&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesalhat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -17,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/siddhartha_alhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhartha_alhat" height="30" width="40" /></a>
+<a href="https://instagram.com/siddartha_alhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddartha_alhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
