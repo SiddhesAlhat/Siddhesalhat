@@ -9,10 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Unity ,Unreal Engine**
+- 💻 Java | Spring Boot | Android | Firebase
+-  🚀 Building full-stack and mobile apps | Clean code | GitHub enthusiast
+- 📫 Connect: siddhesalhat12@gmail.com
 
-- 💬 Ask me about **Android , Java GUI AND DSA , Python , ASP ,APIS**
-
-- 📫 How to reach me **alhatsiddhesh12@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
